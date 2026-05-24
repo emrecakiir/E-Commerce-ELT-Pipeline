@@ -1,4 +1,4 @@
-![Proje Mimari Akış Şeması](Sistem_Mimari_Semasi.jpg)
+![Proje Mimari Akış Şeması](Sistem_Mimari_Semasi.jpeg)
 
 MERHABALAR,
 
