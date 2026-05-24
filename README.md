@@ -1,3 +1,5 @@
+![Proje Mimari Akış Şeması](Sistem_Mimari_Semasi.jpg)
+
 MERHABALAR,
 
 Projenin kurulum gerektirmeden, her bilgisayarda izole ve sorunsuz çalışabilmesi için tüm mimari Docker ile paketlenmiştir. Projeyi çalıştırmak ve arayüze erişmek için lütfen aşağıdaki 3 kısa adımı izleyiniz:
